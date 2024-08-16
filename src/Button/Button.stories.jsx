@@ -4,11 +4,6 @@ import { Button } from './Button';
 import { Icon } from '../Icon/Icon';
 import { StoryLinkWrapper } from '../LinkWrapper';
 
-const StyledButton = styled.button`
-border: 10px solid red;
-font-size: 20px;
-`;
-
 const CustomButton = styled.button`
   border: 1px solid green;
   background: lightgreen;
