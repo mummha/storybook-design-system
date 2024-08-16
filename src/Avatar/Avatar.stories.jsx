@@ -66,3 +66,11 @@ export const Large = {
     </>
   ),
 };
+export const Controls = {
+  args:{
+    loading: false,
+    size: 'large',
+    username: 'Captain Boing',
+    src: 'https://avatars.githubusercontent.com/u/263385',
+  }
+}
